@@ -44,7 +44,7 @@ function TreeVisualizer() {
     }
   }, []);
 
-  // Save to localStorage on change
+  
   useEffect(() => {
     localStorage.setItem('obsidian-tree-data', JSON.stringify(tree));
   }, [tree]);
