@@ -1,0 +1,9 @@
+[36mvite v7.3.0 [32mbuilding client environment for production...[36m[39m
+[32mΓ£ô[39m 0 modules transformed.
+Γ£ù Build failed in 34ms
+error during build:
+Could not resolve entry module "index.html".
+    at getRollupError (file:///C:/Users/Hp/Downloads/tree_visualizer_complete/node_modules/rollup/dist/es/shared/parseAst.js:401:41)
+    at error (file:///C:/Users/Hp/Downloads/tree_visualizer_complete/node_modules/rollup/dist/es/shared/parseAst.js:397:42)
+    at ModuleLoader.loadEntryModule (file:///C:/Users/Hp/Downloads/tree_visualizer_complete/node_modules/rollup/dist/es/shared/node-entry.js:21649:20)
+    at async Promise.all (index 0)
