@@ -2,6 +2,8 @@
 
 A powerful, interactive tree visualization tool built with React Flow, designed to help users organize and visualize hierarchical data with ease. This project features a custom layout engine, integrated note-taking, and a smooth user experience.
 
+![Tree Visualizer Demo](assets/demo.png)
+
 ## Features
 
 - **Interactive Visualization**: Built on React Flow for seamless panning, zooming, and interaction.
